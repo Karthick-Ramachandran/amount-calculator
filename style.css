@@ -1,0 +1,17 @@
+bg-cols{
+    background-color: purple;
+}
+body{
+    font-family: 'Muli', sans-serif;
+
+}
+form{
+    overflow: hidden;
+}
+img{
+    width: 20%;
+    height:10%
+}
+#loading, #results{
+    display: none;
+}
